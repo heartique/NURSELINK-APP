@@ -1408,8 +1408,157 @@
     "correct_answer": "C",
     "explanation": "Vertex presentation is the most common and favorable cephalic presentation. Face and brow are abnormal cephalic presentations. Shoulder is transverse lie.",
     "additional": "Exam pearl: Nurses should be able to identify fetal presentation via abdominal palpation and confirm with vaginal exam or ultrasound. Malpresentations often require cesarean delivery."
+  },
+  {
+    "question_text": "Which is the best method to confirm rupture of membranes?",
+    "option_a": "Observation of liquor leakage",
+    "option_b": "Nitrazine paper test",
+    "option_c": "Ultrasound scan",
+    "option_d": "Palpation of uterus",
+    "correct_answer": "B",
+    "explanation": "The nitrazine test detects alkaline amniotic fluid turning paper blue, confirming rupture of membranes. Observation alone is not always reliable. Ultrasound may show reduced fluid but is less specific.",
+    "additional": "Exam pearl: The fern test (microscopic crystallization pattern) is another confirmatory test. Prolonged rupture increases risk of infection, requiring close monitoring and sometimes antibiotics."
+  },
+  {
+    "question_text": "Which of the following is the most common cause of stillbirth in developing countries?",
+    "option_a": "Hypertensive disorders of pregnancy",
+    "option_b": "Congenital anomalies",
+    "option_c": "Cord accidents",
+    "option_d": "Diabetes mellitus",
+    "correct_answer": "A",
+    "explanation": "Hypertensive disorders like pre-eclampsia and eclampsia are the leading causes of stillbirth in low-resource settings. In high-resource countries, congenital anomalies and cord accidents are more common.",
+    "additional": "Exam pearl: Nurses must monitor BP, urine protein, and warning signs like headache, blurred vision, and epigastric pain in antenatal care to reduce risk."
+  },
+  {
+    "question_text": "Which factor most predisposes to uterine rupture?",
+    "option_a": "Previous cesarean section scar",
+    "option_b": "Polyhydramnios",
+    "option_c": "Multiple pregnancy",
+    "option_d": "Grand multiparity",
+    "correct_answer": "A",
+    "explanation": "The most important risk factor for uterine rupture is a scar from a previous cesarean section. Polyhydramnios, multiple pregnancy, and grand multiparity increase risk but less strongly.",
+    "additional": "Exam pearl: Nurses must recognize warning signs—sudden abdominal pain, loss of contractions, fetal distress, and shock. Immediate laparotomy is lifesaving."
+  },
+  {
+    "question_text": "Which is the normal duration of the puerperium?",
+    "option_a": "2 weeks",
+    "option_b": "4 weeks",
+    "option_c": "6 weeks",
+    "option_d": "8 weeks",
+    "correct_answer": "C",
+    "explanation": "The puerperium is the 6-week period after delivery when maternal organs return to pre-pregnancy state. Most physiological changes are complete within this time.",
+    "additional": "Exam pearl: Nurses should educate mothers on hygiene, lochia monitoring, danger signs, contraception, breastfeeding, and emotional support during puerperium."
+  },
+  {
+    "question_text": "Which is the most important sign of fetal maturity?",
+    "option_a": "Presence of lanugo",
+    "option_b": "Presence of vernix caseosa",
+    "option_c": "Presence of sole creases",
+    "option_d": "Presence of Mongolian spots",
+    "correct_answer": "C",
+    "explanation": "Sole creases, especially extending to the heel, are a reliable sign of fetal maturity. Lanugo and vernix decrease with maturity. Mongolian spots are skin pigmentation, not maturity markers.",
+    "additional": "Exam pearl: Other maturity indicators include firm ear cartilage, descended testes in males, and well-formed breast tissue. Nurses assess gestational age with scoring systems like Ballard."
+  },
+  {
+    "question_text": "Which factor most predisposes to postpartum psychosis?",
+    "option_a": "Multiple pregnancy",
+    "option_b": "History of psychiatric illness",
+    "option_c": "Cesarean section",
+    "option_d": "Teenage pregnancy",
+    "correct_answer": "B",
+    "explanation": "Women with a history of psychiatric illness, especially bipolar disorder or schizophrenia, are at highest risk for postpartum psychosis. Obstetric factors are less predictive.",
+    "additional": "Exam pearl: Postpartum psychosis is a psychiatric emergency with risk of harm to mother and baby. Nurses must ensure safety, rapid referral, and support family coping."
+  },
+  {
+    "question_text": "Which is the most common cause of neonatal sepsis?",
+    "option_a": "Group B Streptococcus",
+    "option_b": "Escherichia coli",
+    "option_c": "Staphylococcus aureus",
+    "option_d": "Listeria monocytogenes",
+    "correct_answer": "A",
+    "explanation": "Group B Streptococcus is the leading cause of neonatal sepsis, especially early-onset disease. E. coli is second most common. S. aureus and Listeria are less frequent.",
+    "additional": "Exam pearl: Nurses must recognize early signs—poor feeding, lethargy, temperature instability, respiratory distress. Prevention: intrapartum antibiotics for GBS-positive mothers."
+  },
+  {
+    "question_text": "Which test best confirms diagnosis of gestational diabetes?",
+    "option_a": "Fasting blood glucose",
+    "option_b": "Random blood glucose",
+    "option_c": "Oral glucose tolerance test",
+    "option_d": "HbA1c",
+    "correct_answer": "C",
+    "explanation": "The oral glucose tolerance test (OGTT) is the gold standard for diagnosing gestational diabetes. Fasting or random tests are screening tools but not definitive.",
+    "additional": "Exam pearl: Nurses play a role in preparing mothers for OGTT, explaining dietary requirements, and emphasizing the importance of follow-up care postpartum."
+  },
+  {
+    "question_text": "Which condition is most associated with antepartum hemorrhage?",
+    "option_a": "Placenta previa",
+    "option_b": "Uterine rupture",
+    "option_c": "Cord prolapse",
+    "option_d": "Preeclampsia",
+    "correct_answer": "A",
+    "explanation": "Placenta previa is the leading cause of antepartum hemorrhage. It presents with painless, bright red bleeding. Uterine rupture causes intrapartum bleeding. Preeclampsia causes hypertension, not hemorrhage.",
+    "additional": "Exam pearl: Nurses must differentiate placenta previa from placental abruption (painful bleeding). Management includes avoiding vaginal exams, monitoring, and preparing for cesarean if severe."
+  },
+  {
+    "question_text": "Which is the best management for retained products of conception?",
+    "option_a": "Expectant management",
+    "option_b": "Administration of oxytocin",
+    "option_c": "Manual evacuation of uterus",
+    "option_d": "Blood transfusion",
+    "correct_answer": "C",
+    "explanation": "Manual evacuation of the uterus is the definitive treatment for retained products of conception. Oxytocin may help uterine contraction but will not expel retained tissue completely.",
+    "additional": "Exam pearl: Nurses prepare the woman for evacuation, monitor for hemorrhage, give antibiotics, and provide psychological support. Complications include infection and infertility if untreated."
+  },
+  {
+    "question_text": "Which vitamin deficiency is most associated with megaloblastic anemia in pregnancy?",
+    "option_a": "Vitamin A",
+    "option_b": "Folic acid",
+    "option_c": "Vitamin D",
+    "option_d": "Vitamin C",
+    "correct_answer": "B",
+    "explanation": "Folic acid deficiency is the leading cause of megaloblastic anemia in pregnancy due to increased demands. Vitamin B12 deficiency can also cause it but is less common.",
+    "additional": "Exam pearl: Nurses must ensure pregnant women receive folic acid supplementation for anemia prevention and neural tube defect prevention. Iron and folate supplementation are standard ANC practice."
+  },
+  {
+    "question_text": "Which is the earliest sign of pregnancy?",
+    "option_a": "Amenorrhea",
+    "option_b": "Nausea and vomiting",
+    "option_c": "Breast changes",
+    "option_d": "Quickening",
+    "correct_answer": "A",
+    "explanation": "Amenorrhea is usually the first symptom noticed by women and is the earliest presumptive sign of pregnancy. Other symptoms appear later.",
+    "additional": "Exam pearl: Nurses must differentiate between presumptive (amenorrhea, nausea, breast changes), probable (Goodell’s, Chadwick’s, Hegar’s signs), and positive signs (FHTs, ultrasound)."
+  },
+  {
+    "question_text": "Which is the most effective contraceptive for women immediately postpartum and breastfeeding?",
+    "option_a": "Combined oral contraceptives",
+    "option_b": "Progestin-only pills",
+    "option_c": "Copper IUD",
+    "option_d": "Condoms",
+    "correct_answer": "B",
+    "explanation": "Progestin-only pills (mini-pill) are safe during lactation and effective immediately postpartum. Combined OCPs suppress lactation and are avoided early postpartum.",
+    "additional": "Exam pearl: Other safe postpartum methods include condoms, injectables, and implants. IUD can be inserted immediately postpartum if no infection risk."
+  },
+  {
+    "question_text": "Which drug is given to accelerate fetal lung maturity in preterm labor?",
+    "option_a": "Betamethasone",
+    "option_b": "Oxytocin",
+    "option_c": "Magnesium sulfate",
+    "option_d": "Labetalol",
+    "correct_answer": "A",
+    "explanation": "Betamethasone (a corticosteroid) stimulates surfactant production and accelerates fetal lung maturity. Oxytocin induces labor, MgSO₄ prevents eclampsia, and labetalol treats hypertension.",
+    "additional": "Exam pearl: Nurses must administer steroids between 24–34 weeks if preterm delivery is expected within 7 days. Monitor for maternal hyperglycemia and infection risk."
+  },
+  {
+    "question_text": "Which sign best differentiates true labor from false labor?",
+    "option_a": "Regular painful contractions with cervical changes",
+    "option_b": "Backache relieved by rest",
+    "option_c": "Contractions that disappear with walking",
+    "option_d": "Irregular tightening without dilation",
+    "correct_answer": "A",
+    "explanation": "True labor is characterized by regular painful contractions accompanied by progressive cervical effacement and dilation. False labor contractions are irregular and relieved by activity or rest.",
+    "additional": "Exam pearl: Nurses must confirm true labor before admission to labor ward. Partograph use starts once active labor is established (cervix ≥4 cm dilated)."
   }
 ]
-
 
 
