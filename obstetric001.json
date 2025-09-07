@@ -1,423 +1,453 @@
 [
   {
-    "question_text": "Which is the most common cause of puerperal sepsis?",
-    "option_a": "Escherichia coli",
-    "option_b": "Staphylococcus aureus",
-    "option_c": "Group B Streptococcus",
-    "option_d": "Anaerobic bacteria",
-    "correct_answer": "A",
-    "explanation": "E. coli is the leading cause of puerperal sepsis, followed by anaerobes and streptococci. Staphylococcus aureus is less common in genital tract infections.",
-    "additional": "Exam pearl: Puerperal sepsis prevention includes aseptic technique, timely management of prolonged labor, and hand hygiene. Nurses must watch for fever, foul lochia, and abdominal pain in postpartum women."
+    "question_text": "Which is the most common cause of maternal death in the puerperium?",
+    "option_a": "Thromboembolism",
+    "option_b": "Sepsis",
+    "option_c": "Postpartum hemorrhage",
+    "option_d": "Eclampsia",
+    "correct_answer": "B",
+    "explanation": "Puerperal sepsis remains a leading cause of maternal mortality during the postpartum period, especially in low-resource settings.",
+    "additional": "Exam pearl: Nurses must emphasize aseptic techniques during delivery, early detection of fever, foul lochia, or abdominal pain, and prompt antibiotic therapy."
   },
   {
-    "question_text": "Which is the best method to assess adequacy of uterine contractions?",
-    "option_a": "Counting contractions per 10 minutes",
-    "option_b": "Palpation for duration and intensity",
-    "option_c": "Monitoring intrauterine pressure catheter",
-    "option_d": "Observing maternal distress",
+    "question_text": "Which is the most common cause of maternal collapse immediately after delivery?",
+    "option_a": "Amniotic fluid embolism",
+    "option_b": "Pulmonary embolism",
+    "option_c": "Hypovolemic shock due to PPH",
+    "option_d": "Eclampsia",
     "correct_answer": "C",
-    "explanation": "The intrauterine pressure catheter provides the most accurate measurement of uterine contraction strength, frequency, and duration. Palpation is less precise but widely used in low-resource settings.",
-    "additional": "Exam pearl: Adequate contractions = 3–5 in 10 minutes, lasting 40–60 seconds, intensity 40–60 mmHg. Nurses use palpation where IUPC is not available."
+    "explanation": "Massive postpartum hemorrhage leading to hypovolemic shock is the most frequent cause of maternal collapse soon after delivery.",
+    "additional": "Exam pearl: Rapid recognition and immediate action with uterotonics, IV fluids, and blood transfusion are lifesaving."
   },
   {
-    "question_text": "Which drug is the first choice for prevention of eclampsia?",
-    "option_a": "Labetalol",
-    "option_b": "Hydralazine",
-    "option_c": "Magnesium sulfate",
-    "option_d": "Diazepam",
+    "question_text": "Which is the main risk factor for placenta previa?",
+    "option_a": "Multiparity",
+    "option_b": "Advanced maternal age",
+    "option_c": "Previous cesarean section",
+    "option_d": "Multiple pregnancy",
     "correct_answer": "C",
-    "explanation": "Magnesium sulfate is the drug of choice for preventing and treating eclamptic seizures. Labetalol and hydralazine are used for BP control, while diazepam is less effective and associated with neonatal depression.",
-    "additional": "Exam pearl: Nurses monitor reflexes, respirations, and urine output during MgSO₄ therapy. Calcium gluconate is the antidote for toxicity."
+    "explanation": "A previous cesarean scar predisposes to abnormal placental implantation, including placenta previa and accreta.",
+    "additional": "Exam pearl: Nurses should anticipate bleeding risk and prepare women with prior CS for careful ultrasound follow-up."
   },
   {
-    "question_text": "Which is the most important risk factor for cervical cancer?",
-    "option_a": "Early onset of sexual activity",
-    "option_b": "Human papillomavirus infection",
-    "option_c": "Multiple pregnancies",
-    "option_d": "Low socioeconomic status",
-    "correct_answer": "B",
-    "explanation": "Persistent HPV infection (especially types 16 and 18) is the strongest risk factor for cervical cancer. Early intercourse, multiparity, and poverty increase risk but through HPV exposure.",
-    "additional": "Exam pearl: Prevention includes HPV vaccination, regular Pap smears/HPV testing, and education. Nurses play key roles in screening and advocacy."
+    "question_text": "Which is the commonest cause of neonatal convulsions on the first day of life?",
+    "option_a": "Hypocalcemia",
+    "option_b": "Hypoglycemia",
+    "option_c": "Birth asphyxia",
+    "option_d": "Sepsis",
+    "correct_answer": "C",
+    "explanation": "Birth asphyxia is the leading cause of neonatal seizures within the first 24 hours. Hypoglycemia and sepsis occur later.",
+    "additional": "Exam pearl: Nurses in NBU must monitor for twitching, jerky movements, and apnea in asphyxiated babies and initiate supportive care quickly."
   },
   {
-    "question_text": "Which is the best management of eclampsia during labor?",
-    "option_a": "Immediate cesarean delivery",
-    "option_b": "Stabilize mother then induce or deliver",
-    "option_c": "Give diazepam only",
-    "option_d": "Continue labor without intervention",
-    "correct_answer": "B",
-    "explanation": "Stabilizing the mother with MgSO₄, antihypertensives, and supportive care is priority before delivery. Immediate cesarean without stabilization increases maternal and fetal risk.",
-    "additional": "Exam pearl: Delivery is the definitive cure for eclampsia, but maternal safety comes first. Nurses provide airway support, position laterally, and monitor vitals."
-  },
-  {
-    "question_text": "Which of the following is a complication of vacuum extraction?",
-    "option_a": "Shoulder dystocia",
-    "option_b": "Cephalohematoma",
-    "option_c": "Cord prolapse",
-    "option_d": "Erb’s palsy",
-    "correct_answer": "B",
-    "explanation": "Cephalohematoma is a common complication of vacuum extraction due to scalp trauma. Shoulder dystocia and Erb’s palsy are more related to difficult vaginal delivery. Cord prolapse is unrelated.",
-    "additional": "Exam pearl: Nurses must monitor newborns after vacuum delivery for scalp swelling, jaundice, and trauma. Maternal complications include genital lacerations."
-  },
-  {
-    "question_text": "Which is the most common cause of recurrent abortion?",
-    "option_a": "Chromosomal abnormalities",
-    "option_b": "Uterine anomalies",
-    "option_c": "Antiphospholipid syndrome",
-    "option_d": "Cervical incompetence",
-    "correct_answer": "A",
-    "explanation": "Chromosomal abnormalities are the leading cause of recurrent early abortions. Uterine anomalies and cervical incompetence are less common but important causes. Antiphospholipid syndrome is also significant.",
-    "additional": "Exam pearl: Nurses should support couples with counseling, encourage genetic evaluation, and provide referral for assisted reproductive options if needed."
-  },
-  {
-    "question_text": "Which sign is most suggestive of concealed abruption?",
-    "option_a": "Painless vaginal bleeding",
-    "option_b": "Hard, tender uterus with minimal bleeding",
-    "option_c": "Soft uterus with heavy bleeding",
-    "option_d": "Cord presentation",
-    "correct_answer": "B",
-    "explanation": "Concealed abruption presents with a tense, tender uterus and little or no vaginal bleeding. In contrast, placenta previa causes painless bleeding. Cord presentation is unrelated.",
-    "additional": "Exam pearl: Nurses must act quickly—concealed bleeding can lead to maternal shock and fetal death without obvious external loss."
-  },
-  {
-    "question_text": "Which is the most common cause of anemia in pregnancy worldwide?",
-    "option_a": "Iron deficiency",
-    "option_b": "Vitamin B12 deficiency",
-    "option_c": "Hemolytic anemia",
-    "option_d": "Chronic renal disease",
-    "correct_answer": "A",
-    "explanation": "Iron deficiency is by far the most common cause of anemia in pregnancy due to increased maternal and fetal demands. Other causes are less common globally.",
-    "additional": "Exam pearl: Iron supplementation is part of routine ANC. Nurses must screen for pallor, fatigue, and breathlessness, and counsel on iron-rich diets."
-  },
-  {
-    "question_text": "Which fetal presentation most commonly causes obstructed labor?",
-    "option_a": "Face presentation",
-    "option_b": "Vertex presentation",
-    "option_c": "Breech presentation",
-    "option_d": "Shoulder presentation",
+    "question_text": "Which is the most specific sign of pregnancy?",
+    "option_a": "Amenorrhea",
+    "option_b": "Breast changes",
+    "option_c": "Quickening",
+    "option_d": "Detection of fetal heart sounds",
     "correct_answer": "D",
-    "explanation": "Shoulder (transverse lie) presentation is a major cause of obstructed labor if not corrected. Face and breech can sometimes deliver vaginally depending on circumstances.",
-    "additional": "Exam pearl: Nurses must detect abnormal lie early in ANC and labor through abdominal palpation and refer for timely cesarean delivery if needed."
+    "explanation": "Fetal heart sounds heard on Doppler or fetoscope are a confirmatory sign of pregnancy. Other signs are presumptive or probable.",
+    "additional": "Exam pearl: Nurses must differentiate between presumptive, probable, and positive signs of pregnancy in exams and practice."
   },
   {
-    "question_text": "Which drug is used to induce labor?",
-    "option_a": "Magnesium sulfate",
-    "option_b": "Oxytocin",
-    "option_c": "Methyldopa",
-    "option_d": "Hydralazine",
-    "correct_answer": "B",
-    "explanation": "Oxytocin stimulates uterine contractions and is commonly used to induce or augment labor. MgSO₄ prevents seizures, and methyldopa/hydralazine control blood pressure.",
-    "additional": "Exam pearl: Nurses must monitor contraction strength, FHR, and maternal vitals during oxytocin infusion to prevent hyperstimulation and fetal distress."
-  },
-  {
-    "question_text": "Which type of episiotomy is most commonly used?",
-    "option_a": "Midline",
-    "option_b": "Mediolateral",
-    "option_c": "Lateral",
-    "option_d": "J-shaped",
-    "correct_answer": "B",
-    "explanation": "The mediolateral episiotomy is most commonly used because it reduces risk of extension into the anal sphincter compared to midline episiotomy.",
-    "additional": "Exam pearl: Nurses assist in episiotomy care, pain management, infection prevention, and pelvic floor exercises during postpartum recovery."
-  },
-  {
-    "question_text": "Which is the commonest cause of neonatal hypoglycemia?",
-    "option_a": "Infant of diabetic mother",
-    "option_b": "Prematurity",
-    "option_c": "Sepsis",
-    "option_d": "Hypothermia",
+    "question_text": "Which is the most important complication of multiple pregnancy?",
+    "option_a": "Preterm labor",
+    "option_b": "Malpresentation",
+    "option_c": "PPH",
+    "option_d": "Hypertensive disorders",
     "correct_answer": "A",
-    "explanation": "Infants of diabetic mothers are at highest risk for hypoglycemia due to hyperinsulinemia after delivery. Prematurity, sepsis, and hypothermia are also risk factors but less common.",
-    "additional": "Exam pearl: Nurses must check blood glucose in at-risk newborns, initiate early feeding, and give IV glucose if severe hypoglycemia is present."
+    "explanation": "Preterm labor is the most frequent complication of multiple gestation, although malpresentation and PPH are also common.",
+    "additional": "Exam pearl: Nurses should counsel mothers with multiple gestations on increased ANC visits, nutrition, and warning signs of preterm labor."
   },
   {
-    "question_text": "Which is the best contraceptive for women with sickle cell disease?",
-    "option_a": "Combined oral contraceptives",
-    "option_b": "Copper IUD",
-    "option_c": "Progestin-only contraceptives",
-    "option_d": "Barrier methods only",
+    "question_text": "Which is the most common site for fertilization?",
+    "option_a": "Infundibulum",
+    "option_b": "Ampulla of fallopian tube",
+    "option_c": "Isthmus",
+    "option_d": "Uterine cavity",
+    "correct_answer": "B",
+    "explanation": "The ampulla of the fallopian tube is the usual site of fertilization due to its wide lumen and proximity to the ovary.",
+    "additional": "Exam pearl: Knowledge of fertilization sites helps explain ectopic pregnancy risks and embryology basics."
+  },
+  {
+    "question_text": "Which is the best indicator of true conjugate adequacy in pelvis assessment?",
+    "option_a": "Diagonal conjugate",
+    "option_b": "Obstetric conjugate",
+    "option_c": "External conjugate",
+    "option_d": "Interspinous diameter",
+    "correct_answer": "B",
+    "explanation": "The obstetric conjugate directly represents the shortest AP diameter through which the fetal head must pass, making it the best indicator of pelvic adequacy.",
+    "additional": "Exam pearl: Clinically, diagonal conjugate is measured and obstetric conjugate is estimated by subtracting ~1.5–2 cm."
+  },
+  {
+    "question_text": "Which is the most common cause of third-trimester bleeding?",
+    "option_a": "Abruptio placentae",
+    "option_b": "Placenta previa",
+    "option_c": "Uterine rupture",
+    "option_d": "Cervical polyp",
+    "correct_answer": "B",
+    "explanation": "Placenta previa is the leading cause of bleeding in the third trimester, classically painless and bright red.",
+    "additional": "Exam pearl: Nurses must avoid vaginal exams in suspected placenta previa and prepare for cesarean delivery if bleeding persists."
+  },
+  {
+    "question_text": "Which hormone is essential for maintenance of early pregnancy?",
+    "option_a": "Estrogen",
+    "option_b": "Progesterone",
+    "option_c": "Prolactin",
+    "option_d": "Oxytocin",
+    "correct_answer": "B",
+    "explanation": "Progesterone maintains uterine quiescence and supports the endometrium in early pregnancy until the placenta takes over hormone production.",
+    "additional": "Exam pearl: Low progesterone may contribute to early miscarriage; supplementation is sometimes used in threatened abortion."
+  },
+  {
+    "question_text": "Which is the main function of relaxin during pregnancy?",
+    "option_a": "Increase milk production",
+    "option_b": "Maintain uterine quiescence",
+    "option_c": "Soften pelvic ligaments",
+    "option_d": "Stimulate uterine contractions",
     "correct_answer": "C",
-    "explanation": "Progestin-only methods are preferred in women with sickle cell disease as they do not increase risk of thrombosis. Estrogen-containing contraceptives may increase clotting risk.",
-    "additional": "Exam pearl: Nurses should counsel on safe options such as injectables, implants, and progestin-only pills. Copper IUD may cause heavy bleeding which worsens anemia."
+    "explanation": "Relaxin softens pelvic ligaments and the cervix to facilitate childbirth. Progesterone maintains quiescence, not relaxin.",
+    "additional": "Exam pearl: Relaxin contributes to pelvic girdle pain and increased joint laxity during pregnancy."
   },
   {
-    "question_text": "Which sign differentiates false labor from true labor?",
-    "option_a": "Cervical dilation with regular contractions",
-    "option_b": "Irregular painless contractions",
-    "option_c": "Presence of backache",
-    "option_d": "Passage of mucus plug",
+    "question_text": "Which of the following is a contraindication to external cephalic version (ECV)?",
+    "option_a": "Multiple pregnancy",
+    "option_b": "Polyhydramnios",
+    "option_c": "Breech presentation at 37 weeks",
+    "option_d": "History of preterm labor",
     "correct_answer": "A",
-    "explanation": "True labor is confirmed by regular painful contractions with cervical dilation and effacement. False labor has irregular contractions without cervical change.",
-    "additional": "Exam pearl: Nurses reassure mothers with false labor and admit only when true labor is established. Use of the partograph begins in active labor."
+    "explanation": "Multiple pregnancy is an absolute contraindication to ECV due to the risk of complications. Polyhydramnios may increase success rates, not contraindicate it.",
+    "additional": "Exam pearl: ECV is typically done at 36–37 weeks under ultrasound and tocolysis, if no contraindications exist."
   },
   {
-    "question_text": "Which is the most common cause of maternal mortality during labor?",
-    "option_a": "Obstructed labor",
+    "question_text": "Which of the following is the most common cause of early pregnancy loss?",
+    "option_a": "Uterine anomalies",
+    "option_b": "Chromosomal abnormalities",
+    "option_c": "Infections",
+    "option_d": "Endocrine disorders",
+    "correct_answer": "B",
+    "explanation": "Chromosomal abnormalities, especially trisomies, are the most frequent cause of spontaneous abortion in the first trimester.",
+    "additional": "Exam pearl: Nurses should provide emotional support and reassurance that most women have successful pregnancies afterward."
+  },
+  {
+    "question_text": "Which is the most important complication of placenta accreta?",
+    "option_a": "Severe hemorrhage",
+    "option_b": "Preterm labor",
+    "option_c": "IUGR",
+    "option_d": "Uterine rupture",
+    "correct_answer": "A",
+    "explanation": "Placenta accreta causes life-threatening hemorrhage at delivery because the placenta fails to separate normally.",
+    "additional": "Exam pearl: Nurses prepare for surgical interventions like hysterectomy and massive transfusion when accreta is suspected."
+  },
+  {
+    "question_text": "Which is the best method of monitoring progress of labor?",
+    "option_a": "Uterine contractions",
+    "option_b": "Fetal descent",
+    "option_c": "Partograph",
+    "option_d": "Cervical effacement",
+    "correct_answer": "C",
+    "explanation": "The partograph is the gold standard tool for monitoring labor progress, combining cervical dilation, descent, and contraction patterns.",
+    "additional": "Exam pearl: Nurses must master plotting on the partograph to detect obstructed labor early and initiate timely referral."
+  },
+  {
+    "question_text": "Which is the most common cause of puerperal pyrexia?",
+    "option_a": "Urinary tract infection",
+    "option_b": "Wound infection",
+    "option_c": "Endometritis",
+    "option_d": "Mastitis",
+    "correct_answer": "C",
+    "explanation": "Endometritis is the leading cause of puerperal fever, particularly following prolonged labor or cesarean delivery.",
+    "additional": "Exam pearl: Nurses should monitor for fever, foul-smelling lochia, abdominal tenderness, and initiate antibiotics promptly."
+  },
+  {
+    "question_text": "Which is the first step in neonatal resuscitation?",
+    "option_a": "Suctioning the airway",
+    "option_b": "Drying and stimulating the baby",
+    "option_c": "Providing positive pressure ventilation",
+    "option_d": "Cutting the cord",
+    "correct_answer": "B",
+    "explanation": "The initial step is to dry and stimulate the baby to initiate spontaneous breathing. Suctioning is only done if airway obstruction is suspected.",
+    "additional": "Exam pearl: Nurses should follow the NRP algorithm: warm, dry, stimulate, clear airway if needed, then assess breathing and heart rate."
+  },
+  {
+    "question_text": "Which is the most common cause of maternal death during pregnancy worldwide?",
+    "option_a": "Sepsis",
     "option_b": "Postpartum hemorrhage",
     "option_c": "Hypertensive disorders",
-    "option_d": "Sepsis",
+    "option_d": "Obstructed labor",
     "correct_answer": "B",
-    "explanation": "Postpartum hemorrhage is the leading direct cause of maternal death during labor and the early postpartum period, especially in low-resource settings.",
-    "additional": "Exam pearl: Nurses prevent PPH by active management of the third stage of labor (oxytocin, controlled cord traction, uterine massage) and rapid identification of atony or trauma."
+    "explanation": "Postpartum hemorrhage remains the leading cause of maternal mortality globally, especially in low-income countries.",
+    "additional": "Exam pearl: Nurses play a vital role in prevention of PPH by active management of the third stage of labor, rapid detection of atony, and emergency preparedness."
   },
   {
-    "question_text": "Which is the earliest sign of pregnancy detectable on ultrasound?",
+    "question_text": "Which is the most common cause of early puerperal psychosis?",
+    "option_a": "Bipolar disorder",
+    "option_b": "Schizophrenia",
+    "option_c": "Severe depression",
+    "option_d": "Personality disorder",
+    "correct_answer": "A",
+    "explanation": "Bipolar disorder is the psychiatric condition most strongly associated with puerperal psychosis, often manifesting soon after delivery.",
+    "additional": "Exam pearl: Nurses must urgently recognize psychosis to prevent harm to mother and infant, ensuring rapid psychiatric referral and family support."
+  },
+  {
+    "question_text": "Which is the most common cause of maternal mortality in eclampsia?",
+    "option_a": "Pulmonary edema",
+    "option_b": "Renal failure",
+    "option_c": "Cerebral hemorrhage",
+    "option_d": "Cardiac arrest",
+    "correct_answer": "C",
+    "explanation": "Cerebral hemorrhage due to uncontrolled hypertension is the primary cause of maternal death in eclampsia.",
+    "additional": "Exam pearl: Nurses must monitor blood pressure vigilantly, administer antihypertensives and MgSO₄, and act quickly at signs of neurological deterioration."
+  },
+  {
+    "question_text": "Which is the safest method of sterilization in men?",
+    "option_a": "Vasectomy",
+    "option_b": "Condoms",
+    "option_c": "Withdrawal method",
+    "option_d": "Hormonal therapy",
+    "correct_answer": "A",
+    "explanation": "Vasectomy is a safe, effective, and permanent method of male sterilization. Condoms and withdrawal are temporary, while hormonal methods are experimental.",
+    "additional": "Exam pearl: Nurses provide counseling on permanency, simplicity of procedure, and reassurance that sexual function remains unaffected."
+  },
+  {
+    "question_text": "Which is the earliest sign of pregnancy on physical examination?",
+    "option_a": "Breast tenderness",
+    "option_b": "Amenorrhea",
+    "option_c": "Chadwick’s sign",
+    "option_d": "Quickening",
+    "correct_answer": "C",
+    "explanation": "Chadwick’s sign (bluish discoloration of the cervix and vagina) can appear as early as 6–8 weeks, making it the earliest clinical sign.",
+    "additional": "Exam pearl: Presumptive signs include amenorrhea and nausea; probable signs include Chadwick’s and Hegar’s signs; positive signs include FHR and fetal movements felt by examiner."
+  },
+  {
+    "question_text": "Which is the main risk factor for shoulder dystocia?",
+    "option_a": "Multiple pregnancy",
+    "option_b": "Fetal macrosomia",
+    "option_c": "Polyhydramnios",
+    "option_d": "Preterm labor",
+    "correct_answer": "B",
+    "explanation": "Fetal macrosomia is the strongest risk factor for shoulder dystocia, although it can occur unpredictably in normal-weight infants too.",
+    "additional": "Exam pearl: Nurses must be prepared for maneuvers like McRoberts and suprapubic pressure during delivery when macrosomia is suspected."
+  },
+  {
+    "question_text": "Which is the most important complication of polyhydramnios?",
+    "option_a": "Cord prolapse",
+    "option_b": "Postpartum hemorrhage",
+    "option_c": "Preterm labor",
+    "option_d": "All of the above",
+    "correct_answer": "D",
+    "explanation": "Polyhydramnios predisposes to cord prolapse, preterm labor, and uterine atony causing PPH, making all listed complications important.",
+    "additional": "Exam pearl: Nurses should closely monitor fluid levels, maternal discomfort, and labor complications in polyhydramnios cases."
+  },
+  {
+    "question_text": "Which is the best method to diagnose ectopic pregnancy early?",
+    "option_a": "Urine pregnancy test",
+    "option_b": "Culdocentesis",
+    "option_c": "Transvaginal ultrasound",
+    "option_d": "Serial hemoglobin estimation",
+    "correct_answer": "C",
+    "explanation": "Transvaginal ultrasound is the most reliable and earliest method to diagnose ectopic pregnancy by detecting an empty uterus and adnexal mass.",
+    "additional": "Exam pearl: Nurses should suspect ectopic pregnancy in any woman of reproductive age with abdominal pain and positive pregnancy test."
+  },
+  {
+    "question_text": "Which is the best method of preventing mother-to-child transmission of HIV?",
+    "option_a": "Exclusive breastfeeding only",
+    "option_b": "Cesarean delivery",
+    "option_c": "Maternal antiretroviral therapy",
+    "option_d": "Infant prophylaxis only",
+    "correct_answer": "C",
+    "explanation": "Maternal antiretroviral therapy is the most effective intervention to prevent vertical transmission of HIV.",
+    "additional": "Exam pearl: Nurses must ensure adherence to ART, encourage safe infant feeding choices, and provide ongoing counseling."
+  },
+  {
+    "question_text": "Which hormone is mainly responsible for uterine contractions during labor?",
+    "option_a": "Progesterone",
+    "option_b": "Oxytocin",
+    "option_c": "Estrogen",
+    "option_d": "Prolactin",
+    "correct_answer": "B",
+    "explanation": "Oxytocin stimulates uterine muscle contractions essential for labor. Progesterone relaxes the uterus, while estrogen primes it.",
+    "additional": "Exam pearl: Nurses administer synthetic oxytocin during induction and augmentation of labor and monitor for hyperstimulation."
+  },
+  {
+    "question_text": "Which complication is most associated with premature rupture of membranes (PROM)?",
+    "option_a": "Puerperal sepsis",
+    "option_b": "Chorioamnionitis",
+    "option_c": "Cord prolapse",
+    "option_d": "Polyhydramnios",
+    "correct_answer": "B",
+    "explanation": "Chorioamnionitis is the most important complication of PROM due to ascending infection once membranes are ruptured.",
+    "additional": "Exam pearl: Nurses should monitor temperature, foul liquor, and maternal tachycardia, and prepare for timely delivery if infection sets in."
+  },
+  {
+    "question_text": "Which is the most common cause of maternal mortality after cesarean section?",
+    "option_a": "Sepsis",
+    "option_b": "Thromboembolism",
+    "option_c": "Hemorrhage",
+    "option_d": "Anesthetic complications",
+    "correct_answer": "C",
+    "explanation": "Hemorrhage is the most frequent direct cause of maternal death after cesarean delivery.",
+    "additional": "Exam pearl: Nurses must monitor post-op bleeding closely, check vitals frequently, and prepare for transfusion if needed."
+  },
+  {
+    "question_text": "Which vitamin deficiency causes megaloblastic anemia in pregnancy?",
+    "option_a": "Vitamin A",
+    "option_b": "Folic acid",
+    "option_c": "Vitamin C",
+    "option_d": "Vitamin D",
+    "correct_answer": "B",
+    "explanation": "Folic acid deficiency is the leading cause of megaloblastic anemia in pregnancy due to increased maternal and fetal demand.",
+    "additional": "Exam pearl: Nurses should educate on folate-rich foods and routine supplementation during ANC."
+  },
+  {
+    "question_text": "Which is the most common cause of neonatal death after the first week of life?",
+    "option_a": "Neonatal sepsis",
+    "option_b": "Prematurity",
+    "option_c": "Birth asphyxia",
+    "option_d": "Congenital malformations",
+    "correct_answer": "A",
+    "explanation": "After the first week, neonatal sepsis overtakes prematurity and asphyxia as the main cause of neonatal mortality.",
+    "additional": "Exam pearl: Nurses must practice asepsis, promote exclusive breastfeeding, and recognize early danger signs in neonates."
+  },
+  {
+    "question_text": "Which is the best contraceptive method for a woman with sickle cell disease?",
+    "option_a": "Combined oral contraceptives",
+    "option_b": "Progestin-only methods",
+    "option_c": "Copper IUD",
+    "option_d": "Barrier methods",
+    "correct_answer": "B",
+    "explanation": "Progestin-only methods are recommended for women with sickle cell disease as they are safe and may reduce crisis frequency.",
+    "additional": "Exam pearl: Nurses should avoid estrogen-containing methods in sickle cell patients due to thromboembolic risk."
+  },
+  {
+    "question_text": "Which is the commonest cause of maternal mortality during the puerperium?",
+    "option_a": "Sepsis",
+    "option_b": "Postpartum hemorrhage",
+    "option_c": "Eclampsia",
+    "option_d": "Thromboembolism",
+    "correct_answer": "A",
+    "explanation": "Sepsis, particularly puerperal sepsis, is a major contributor to maternal deaths in the postpartum period. It results from infections of the genital tract, most often endometritis, and can progress rapidly to septicemia if not treated promptly. Early recognition and antibiotic therapy are vital.",
+    "additional": "Exam pearl: Puerperal sepsis is preventable with clean delivery practices, hand hygiene, and proper wound care. Nurses should monitor for fever, foul-smelling lochia, abdominal tenderness, and tachycardia. WHO defines puerperal sepsis as infection of the genital tract between labor and 42 days postpartum, with two or more of the following: pelvic pain, fever ≥38°C, abnormal lochia, or delayed uterine involution. Prediction tip: NCK exams often test on definitions, early signs, and nursing prevention measures of puerperal sepsis."
+  },
+  {
+    "question_text": "Which is the safest contraceptive for a lactating mother immediately postpartum?",
+    "option_a": "Combined oral contraceptive pills",
+    "option_b": "Progestin-only methods",
+    "option_c": "Copper IUD",
+    "option_d": "Emergency contraception",
+    "correct_answer": "B",
+    "explanation": "Progestin-only contraceptives (mini-pill, implant, injectables) are safe in breastfeeding because they do not affect milk production. Combined estrogen-progestin pills can reduce milk supply if introduced too early.",
+    "additional": "Exam pearl: WHO recommends starting progestin-only methods immediately after delivery, while combined pills should be delayed for at least 6 months if exclusively breastfeeding. Nurses should educate mothers on the lactational amenorrhea method (LAM), which is effective up to 6 months postpartum if exclusive breastfeeding is practiced. NCK exams commonly test timing of contraceptive initiation and safe methods for breastfeeding women."
+  },
+  {
+    "question_text": "Which is the most common cause of neonatal death globally?",
+    "option_a": "Prematurity and its complications",
+    "option_b": "Birth asphyxia",
+    "option_c": "Sepsis",
+    "option_d": "Congenital anomalies",
+    "correct_answer": "A",
+    "explanation": "Prematurity and its complications, particularly respiratory distress syndrome and infections, account for the majority of neonatal deaths worldwide. The earlier the gestational age, the higher the risk of morbidity and mortality.",
+    "additional": "Exam pearl: Preterm infants face challenges like hypothermia, hypoglycemia, sepsis, and respiratory distress due to immature lungs. Nursing care includes thermal protection, kangaroo mother care, oxygen therapy, and infection prevention. In exams, prematurity often appears linked to survival strategies such as antenatal steroids, surfactant therapy, and early initiation of breastfeeding."
+  },
+  {
+    "question_text": "Which of the following is the most important complication of abruptio placentae?",
+    "option_a": "Postpartum hemorrhage",
+    "option_b": "Disseminated intravascular coagulation (DIC)",
+    "option_c": "Intrauterine growth restriction",
+    "option_d": "Intrauterine death",
+    "correct_answer": "B",
+    "explanation": "DIC is a life-threatening complication of abruptio placentae, triggered by release of thromboplastin from the retroplacental clot. This leads to consumption of clotting factors, uncontrolled bleeding, and shock.",
+    "additional": "Exam pearl: Clinical features of abruptio placentae include painful vaginal bleeding, uterine tenderness, and fetal distress. Nurses should anticipate hypovolemic shock and DIC, monitor vital signs and urine output, and prepare for blood transfusion and expedited delivery. In NCK exams, focus on recognizing the triad (pain, bleeding, tense uterus) and knowing DIC as the most feared complication."
+  },
+  {
+    "question_text": "Which is the most specific sign of fetal distress?",
+    "option_a": "Meconium-stained liquor",
+    "option_b": "Reduced fetal movements",
+    "option_c": "Persistent late decelerations on CTG",
+    "option_d": "Bradycardia below 110 bpm",
+    "correct_answer": "C",
+    "explanation": "Persistent late decelerations on cardiotocography (CTG) are the most specific sign of fetal hypoxia and distress, reflecting uteroplacental insufficiency. Bradycardia and reduced movements are supportive but less specific.",
+    "additional": "Exam pearl: Nurses should differentiate early (benign), variable (cord compression), and late (placental insufficiency) decelerations. Management includes maternal repositioning, oxygen, IV fluids, discontinuing oxytocin, and preparing for urgent delivery. Exam questions often ask which CTG pattern is most dangerous—late decelerations is the answer."
+  },
+  {
+    "question_text": "Which is the leading cause of maternal mortality due to hypertensive disorders of pregnancy?",
+    "option_a": "Cerebral hemorrhage",
+    "option_b": "Pulmonary edema",
+    "option_c": "Renal failure",
+    "option_d": "Eclampsia seizures",
+    "correct_answer": "A",
+    "explanation": "Cerebral hemorrhage, resulting from uncontrolled severe hypertension, is the leading cause of maternal death in pre-eclampsia and eclampsia.",
+    "additional": "Exam pearl: Nursing interventions include strict BP monitoring, antihypertensive therapy (hydralazine, labetalol), seizure prophylaxis with MgSO₄, and ensuring delivery once mother is stable. Prediction: Exams often test the link between poorly controlled hypertension and cerebral hemorrhage as the most fatal complication."
+  },
+  {
+    "question_text": "Which is the most effective method to prevent neonatal tetanus?",
+    "option_a": "Clean cord care",
+    "option_b": "Neonatal antibiotics",
+    "option_c": "Maternal tetanus toxoid immunization",
+    "option_d": "Immediate breastfeeding",
+    "correct_answer": "C",
+    "explanation": "Maternal immunization with tetanus toxoid during pregnancy provides antibodies that cross the placenta, protecting the newborn against neonatal tetanus.",
+    "additional": "Exam pearl: Nurses should ensure that pregnant women receive at least 2 doses of tetanus toxoid. Clean cord care complements but does not replace immunization. In exams, the correct prevention method is almost always maternal immunization, not neonatal antibiotics."
+  },
+  {
+    "question_text": "Which is the commonest cause of breech presentation?",
+    "option_a": "Prematurity",
+    "option_b": "Multiple pregnancy",
+    "option_c": "Placenta previa",
+    "option_d": "Uterine anomalies",
+    "correct_answer": "A",
+    "explanation": "Prematurity is the most frequent cause of breech presentation because the fetus has not yet assumed the cephalic position.",
+    "additional": "Exam pearl: Other causes include uterine anomalies, multiple pregnancy, and polyhydramnios. Breech increases risk of cord prolapse, birth trauma, and asphyxia. Nurses must prepare for assisted breech delivery or cesarean section depending on circumstances. In exams, prematurity is the most commonly tested cause."
+  },
+  {
+    "question_text": "Which is the earliest detectable sign of pregnancy on ultrasound?",
     "option_a": "Gestational sac",
     "option_b": "Yolk sac",
-    "option_c": "Fetal pole",
-    "option_d": "Fetal heartbeat",
+    "option_c": "Fetal heartbeat",
+    "option_d": "Fetal pole",
     "correct_answer": "A",
-    "explanation": "The gestational sac is the earliest sign visible on transvaginal ultrasound, appearing around 4–5 weeks of gestation. Yolk sac and heartbeat appear later.",
-    "additional": "Exam pearl: Transvaginal scans detect pregnancy earlier than abdominal scans. Nurses should reassure mothers that absence of heartbeat before 6 weeks is often normal."
+    "explanation": "The gestational sac is the first structure seen on transvaginal ultrasound at about 4–5 weeks gestation, before yolk sac and heartbeat appear.",
+    "additional": "Exam pearl: By 5–6 weeks, the yolk sac appears, and by 6–7 weeks, cardiac activity is usually visible. Nurses should reassure mothers that absence of heartbeat before 6 weeks may be normal. Prediction: NCK exams often test the chronological order of sonographic findings."
   },
   {
-    "question_text": "Which is the most appropriate management of mild pre-eclampsia?",
-    "option_a": "Immediate delivery",
-    "option_b": "Hospitalization with strict bed rest",
-    "option_c": "Outpatient management with close monitoring",
-    "option_d": "Administration of MgSO₄",
+    "question_text": "Which is the most important danger sign in pregnancy requiring immediate referral?",
+    "option_a": "Mild ankle edema",
+    "option_b": "Backache",
+    "option_c": "Severe headache with blurred vision",
+    "option_d": "Nausea and vomiting",
     "correct_answer": "C",
-    "explanation": "Mild pre-eclampsia (BP <160/110, no severe symptoms) can be managed as an outpatient with frequent monitoring of BP, urine protein, and fetal well-being. MgSO₄ is reserved for severe cases.",
-    "additional": "Exam pearl: Nurses should educate on warning signs (headache, visual changes, epigastric pain) and the need for immediate care if symptoms progress."
-  },
-  {
-    "question_text": "Which is the most reliable method of detecting fetal anemia?",
-    "option_a": "Fetal movement count",
-    "option_b": "Doppler assessment of middle cerebral artery",
-    "option_c": "Amniotic fluid index",
-    "option_d": "Cardiotocography",
-    "correct_answer": "B",
-    "explanation": "Doppler of the middle cerebral artery peak systolic velocity is the most reliable non-invasive method to detect fetal anemia. Other methods are indirect or late indicators.",
-    "additional": "Exam pearl: Nurses support monitoring in high-risk pregnancies like Rh isoimmunization. Early detection guides intrauterine transfusion or early delivery."
-  },
-  {
-    "question_text": "Which of the following is the best indicator of effective breastfeeding?",
-    "option_a": "Baby cries less frequently",
-    "option_b": "Baby passes urine at least 6 times/day",
-    "option_c": "Mother feels breast fullness",
-    "option_d": "Baby sleeps after feeds",
-    "correct_answer": "B",
-    "explanation": "Passing urine 6 or more times a day is a reliable sign of adequate milk intake. Crying or sleeping patterns are not reliable indicators.",
-    "additional": "Exam pearl: Nurses should teach mothers early initiation, correct positioning and attachment, and exclusive breastfeeding for 6 months."
-  },
-  {
-    "question_text": "Which is the most important intervention in preventing neonatal ophthalmia?",
-    "option_a": "Antenatal syphilis screening",
-    "option_b": "Routine cord care",
-    "option_c": "Prophylactic eye ointment at birth",
-    "option_d": "Immediate bathing after birth",
-    "correct_answer": "C",
-    "explanation": "Applying prophylactic antibiotic eye ointment (erythromycin or tetracycline) within 1 hour of birth prevents ophthalmia neonatorum caused by gonorrhea and chlamydia.",
-    "additional": "Exam pearl: Nurses must ensure universal prophylaxis. Antenatal STI screening complements but does not replace this step."
-  },
-  {
-    "question_text": "Which sign best confirms intrauterine fetal death?",
-    "option_a": "Absent fetal movements",
-    "option_b": "Absent fetal heart sounds",
-    "option_c": "Absent fetal cardiac activity on ultrasound",
-    "option_d": "Loss of uterine size",
-    "correct_answer": "C",
-    "explanation": "Ultrasound confirmation of absent fetal cardiac activity is the definitive diagnosis of IUFD. Absence of heart sounds or movements may be subjective.",
-    "additional": "Exam pearl: Nurses should provide emotional support, prepare the woman for induction, and counsel on post-loss care and future pregnancy planning."
+    "explanation": "Severe headache with visual disturbances is a red flag for severe pre-eclampsia or impending eclampsia, requiring urgent referral and treatment.",
+    "additional": "Exam pearl: Other key danger signs include vaginal bleeding, severe abdominal pain, convulsions, reduced fetal movements, and high fever. Nurses must educate mothers on recognizing and reporting these signs early. In exams, blurred vision + headache almost always points to pre-eclampsia complications."
   },
   {
     "question_text": "Which is the most common cause of neonatal death in the first week of life?",
     "option_a": "Birth asphyxia",
-    "option_b": "Neonatal sepsis",
-    "option_c": "Congenital anomalies",
-    "option_d": "Preterm complications",
-    "correct_answer": "A",
-    "explanation": "Birth asphyxia is the leading cause of early neonatal mortality, particularly in low-resource settings. Preterm complications and sepsis are also major causes.",
-    "additional": "Exam pearl: Immediate newborn resuscitation skills are critical for nurses to reduce mortality. Prevention includes skilled birth attendance and antenatal care."
-  },
-  {
-    "question_text": "Which is the commonest cause of breech presentation?",
-    "option_a": "Multiple pregnancy",
-    "option_b": "Prematurity",
-    "option_c": "Placenta previa",
-    "option_d": "Polyhydramnios",
-    "correct_answer": "B",
-    "explanation": "Prematurity is the most frequent cause of breech presentation because the fetus has not yet assumed the cephalic position. Multiple pregnancy and anomalies are other contributors.",
-    "additional": "Exam pearl: Nurses should anticipate breech deliveries with higher risks of cord prolapse and birth trauma. ECV may be attempted at term if safe."
-  },
-  {
-    "question_text": "Which is the best method for assessing cervical ripeness before induction of labor?",
-    "option_a": "Bishop score",
-    "option_b": "Ultrasound",
-    "option_c": "Digital dilation measurement",
-    "option_d": "Fundal height",
-    "correct_answer": "A",
-    "explanation": "The Bishop score assesses dilation, effacement, station, consistency, and position of the cervix to determine readiness for induction. Ultrasound and fundal height do not assess cervical ripeness.",
-    "additional": "Exam pearl: A Bishop score ≥8 indicates favorable cervix. Nurses should explain the scoring system and support mothers undergoing induction."
-  },
-  {
-    "question_text": "Which is the most common cause of prolonged pregnancy?",
-    "option_a": "Misdated pregnancy",
-    "option_b": "Placental insufficiency",
-    "option_c": "Fetal anomalies",
-    "option_d": "Multiple pregnancy",
-    "correct_answer": "A",
-    "explanation": "Incorrect calculation of gestational age is the leading cause of apparent post-term pregnancy. True prolonged pregnancy is less common.",
-    "additional": "Exam pearl: Accurate dating by early ultrasound and reliable menstrual history prevents unnecessary interventions for wrongly dated pregnancies."
-  },
-  {
-    "question_text": "Which condition is most associated with postpartum blues?",
-    "option_a": "Hormonal changes after delivery",
-    "option_b": "History of depression",
-    "option_c": "Cesarean section",
-    "option_d": "Lack of social support",
-    "correct_answer": "A",
-    "explanation": "Postpartum blues are mainly due to rapid hormonal shifts after delivery, affecting mood. They usually resolve within 2 weeks. A history of depression increases risk for postpartum depression, not blues.",
-    "additional": "Exam pearl: Nurses should reassure mothers, provide support, and monitor for worsening symptoms that may indicate depression requiring treatment."
-  },
-  {
-    "question_text": "Which is the best indicator of ovulation?",
-    "option_a": "Rise in basal body temperature",
-    "option_b": "Mid-cycle spotting",
-    "option_c": "Breast tenderness",
-    "option_d": "Mittelschmerz",
-    "correct_answer": "A",
-    "explanation": "A sustained rise in basal body temperature indicates ovulation due to progesterone effect. Mittelschmerz and spotting are suggestive but less reliable.",
-    "additional": "Exam pearl: Nurses can educate women on fertility awareness methods, which rely on basal body temperature, cervical mucus, and cycle tracking."
-  },
-  {
-    "question_text": "Which of the following is the safest method of sterilization in women?",
-    "option_a": "Hysterectomy",
-    "option_b": "Tubal ligation",
-    "option_c": "Salpingectomy",
-    "option_d": "Oophorectomy",
-    "correct_answer": "B",
-    "explanation": "Tubal ligation is the safest and most common method of female sterilization. Hysterectomy and oophorectomy are more invasive. Salpingectomy may also be done but less common.",
-    "additional": "Exam pearl: Nurses provide counseling on permanency, risks, and alternatives before sterilization. Tubal ligation can be done postpartum or interval."
-  },
-  {
-    "question_text": "Which is the most common cause of maternal mortality in hypertensive disorders of pregnancy?",
-    "option_a": "Renal failure",
-    "option_b": "Pulmonary edema",
-    "option_c": "Cerebral hemorrhage",
-    "option_d": "Disseminated intravascular coagulation",
-    "correct_answer": "C",
-    "explanation": "Cerebral hemorrhage due to uncontrolled severe hypertension is the leading cause of death in pre-eclampsia/eclampsia. Pulmonary edema and renal failure also occur but less often.",
-    "additional": "Exam pearl: Strict blood pressure control with antihypertensives and seizure prophylaxis with MgSO₄ prevent mortality. Nurses must monitor closely for neurological symptoms."
-  },
-  {
-    "question_text": "Which of the following is the earliest sign of hypovolemic shock in postpartum hemorrhage?",
-    "option_a": "Low blood pressure",
-    "option_b": "Tachycardia",
-    "option_c": "Pallor",
-    "option_d": "Cold clammy skin",
-    "correct_answer": "B",
-    "explanation": "The earliest sign of hypovolemic shock is tachycardia, as the body compensates for blood loss by increasing heart rate. Hypotension and pallor appear later.",
-    "additional": "Exam pearl: Nurses must monitor maternal pulse closely in the third stage of labor. Rapid intervention with IV fluids, uterotonics, and blood transfusion can save lives."
-  },
-  {
-    "question_text": "Which is the most common cause of antepartum hemorrhage?",
-    "option_a": "Placenta previa",
-    "option_b": "Abruptio placentae",
-    "option_c": "Uterine rupture",
-    "option_d": "Vasa previa",
-    "correct_answer": "A",
-    "explanation": "Placenta previa, where the placenta implants in the lower uterine segment, is the leading cause of antepartum hemorrhage. It presents with painless, bright red bleeding.",
-    "additional": "Exam pearl: Differentiating from abruption is key: abruption causes painful bleeding and a tense uterus. Nurses must avoid vaginal examination in suspected placenta previa."
-  },
-  {
-    "question_text": "Which fetal condition is most associated with polyhydramnios?",
-    "option_a": "Renal agenesis",
-    "option_b": "Esophageal atresia",
-    "option_c": "Congenital diaphragmatic hernia",
-    "option_d": "Neural tube defects",
-    "correct_answer": "B",
-    "explanation": "Esophageal atresia leads to polyhydramnios because the fetus cannot swallow amniotic fluid. Renal agenesis is linked to oligohydramnios instead.",
-    "additional": "Exam pearl: Nurses should monitor mothers with polyhydramnios for breathlessness, preterm labor, and cord prolapse during rupture of membranes."
-  },
-  {
-    "question_text": "Which is the best management of severe postpartum hemorrhage due to uterine atony?",
-    "option_a": "Administration of oxytocin",
-    "option_b": "Manual removal of placenta",
-    "option_c": "Repair of genital tract lacerations",
-    "option_d": "Blood transfusion only",
-    "correct_answer": "A",
-    "explanation": "The first-line management of PPH due to uterine atony is administration of uterotonics like oxytocin and uterine massage. Other measures follow if bleeding persists.",
-    "additional": "Exam pearl: Stepwise management includes oxytocin, ergometrine, prostaglandins, bimanual compression, and surgical interventions if uncontrolled."
-  },
-  {
-    "question_text": "Which is the most reliable sign of onset of true labor?",
-    "option_a": "Regular painful contractions with cervical changes",
-    "option_b": "Passage of mucus plug",
-    "option_c": "Backache",
-    "option_d": "Uterine tightening relieved by rest",
-    "correct_answer": "A",
-    "explanation": "The defining feature of true labor is regular painful contractions causing progressive cervical effacement and dilation. Other signs may occur in false labor.",
-    "additional": "Exam pearl: Nurses must assess cervix to differentiate false from true labor before admission to the labor ward."
-  },
-  {
-    "question_text": "Which is the safest position for a woman in labor with cord prolapse?",
-    "option_a": "Lithotomy",
-    "option_b": "Knee-chest",
-    "option_c": "Supine",
-    "option_d": "Semi-sitting",
-    "correct_answer": "B",
-    "explanation": "Knee-chest or Trendelenburg positions reduce pressure on the prolapsed cord by shifting the fetus upward. This prevents further cord compression until cesarean delivery.",
-    "additional": "Exam pearl: Nurses must also push presenting part off the cord, administer oxygen, and prepare for immediate cesarean delivery."
-  },
-  {
-    "question_text": "Which factor most increases the risk of ectopic pregnancy?",
-    "option_a": "Previous pelvic inflammatory disease",
-    "option_b": "Multiple sexual partners",
-    "option_c": "Obesity",
-    "option_d": "Diabetes mellitus",
-    "correct_answer": "A",
-    "explanation": "PID damages fallopian tubes, increasing risk of ectopic pregnancy. Other factors include tubal surgery and previous ectopic pregnancy. Diabetes and obesity are less associated.",
-    "additional": "Exam pearl: Nurses should suspect ectopic pregnancy in women with abdominal pain, vaginal bleeding, and positive pregnancy test. Prompt referral is lifesaving."
-  },
-  {
-    "question_text": "Which drug is used as the first-line anticonvulsant in eclampsia?",
-    "option_a": "Diazepam",
-    "option_b": "Phenytoin",
-    "option_c": "Magnesium sulfate",
-    "option_d": "Phenobarbital",
-    "correct_answer": "C",
-    "explanation": "Magnesium sulfate is the drug of choice for preventing and treating seizures in eclampsia. Other drugs are less effective and have more neonatal side effects.",
-    "additional": "Exam pearl: Nurses must monitor reflexes, respirations, and urine output to prevent magnesium toxicity, with calcium gluconate available as antidote."
-  },
-  {
-    "question_text": "Which is the most common cause of neonatal mortality in preterm babies?",
-    "option_a": "Hypoglycemia",
     "option_b": "Sepsis",
-    "option_c": "Respiratory distress syndrome",
-    "option_d": "Hypothermia",
-    "correct_answer": "C",
-    "explanation": "Respiratory distress syndrome due to surfactant deficiency is the leading cause of death in preterm infants. Sepsis, hypoglycemia, and hypothermia are also important but secondary.",
-    "additional": "Exam pearl: Antenatal corticosteroids and surfactant therapy are essential preventive and therapeutic measures. Nurses must also ensure thermal care and infection prevention."
+    "option_c": "Prematurity",
+    "option_d": "Congenital anomalies",
+    "correct_answer": "A",
+    "explanation": "Birth asphyxia is the leading cause of death in the first 7 days of life, especially in low-resource settings where neonatal resuscitation may not be readily available. Lack of oxygen at birth damages vital organs including the brain and heart, leading to high mortality if not corrected immediately.",
+    "additional": "Exam pearl: Skilled birth attendants and proper neonatal resuscitation (clearing airway, stimulation, bag-mask ventilation) reduce deaths. Nurses should anticipate risk factors such as prolonged labor, obstructed labor, or maternal complications. NCK exams frequently test 'birth asphyxia' as the top cause of early neonatal death."
   },
   {
-    "question_text": "Which fetal heart rate pattern is most suggestive of fetal hypoxia?",
-    "option_a": "Early decelerations",
-    "option_b": "Variable decelerations",
-    "option_c": "Late decelerations",
-    "option_d": "Increased variability",
-    "correct_answer": "C",
-    "explanation": "Late decelerations are associated with uteroplacental insufficiency and fetal hypoxia. Early decelerations are benign, while variable decelerations suggest cord compression.",
-    "additional": "Exam pearl: Nurses must recognize late decelerations on CTG and act promptly with maternal repositioning, oxygen, stopping oxytocin, and preparing for delivery if persistent."
+    "question_text": "Which is the most common cause of postpartum hemorrhage?",
+    "option_a": "Uterine atony",
+    "option_b": "Retained placental tissue",
+    "option_c": "Genital tract trauma",
+    "option_d": "Coagulopathy",
+    "correct_answer": "A",
+    "explanation": "Uterine atony, the failure of the uterus to contract effectively after delivery, is the primary cause of postpartum hemorrhage. Without contraction, the open uterine sinuses continue to bleed heavily.",
+    "additional": "Exam pearl: Nurses prevent atony by administering oxytocin, massaging the uterus, and practicing active management of the third stage of labor (AMTSL). If atony persists, escalate to ergometrine, misoprostol, or bimanual compression. Exam predictions: At least one PPH question always emphasizes 'uterine atony' as the main cause."
   },
   {
-    "question_text": "Which is the most effective method of preventing neural tube defects?",
-    "option_a": "Vitamin D supplementation",
-    "option_b": "Iron supplementation",
-    "option_c": "Folic acid supplementation",
-    "option_d": "Protein-rich diet",
-    "correct_answer": "C",
-    "explanation": "Folic acid supplementation before conception and in early pregnancy prevents most neural tube defects. Other supplements and diets do not provide specific protection.",
-    "additional": "Exam pearl: Nurses should emphasize preconception folic acid use for all women of childbearing age, ideally starting before pregnancy."
-  },
-  {
-    "question_text": "Which is the most common cause of puerperal psychosis?",
-    "option_a": "Schizophrenia",
-    "option_b": "Bipolar disorder",
-    "option_c": "Severe depression",
-    "option_d": "Personality disorder",
-    "correct_answer": "B",
-    "explanation": "Puerperal psychosis is strongly linked with bipolar disorder, which may relapse postpartum due to hormonal and psychosocial stressors.",
-    "additional": "Exam pearl: Nurses must ensure safety of mother and baby, arrange urgent psychiatric referral, and provide family support."
+    "question_text": "Which is the earliest clinical sign of pregnancy?",
+    "option_a": "Amenorrhea",
+    "option_b": "Breast tenderness",
+    "option_c": "Chadwick’s sign",
+    "option_d": "Quickening",
+    "correct_answer": "A",
+    "explanation": "The earliest and most common clinical sign of pregnancy is amenorrhea, usually recognized by the woman within a few weeks of conception. Other signs like quickening or Chadwick’s sign appear later.",
+    "additional": "Exam pearl: Presumptive signs = amenorrhea, breast changes, nausea; probable signs = enlarged abdomen, cervical changes; positive signs = FHR or fetal movements felt by examiner. NCK often asks students to distinguish these categories."
   },
   {
     "question_text": "Which condition is most associated with oligohydramnios?",
@@ -426,350 +456,194 @@
     "option_c": "Multiple pregnancy",
     "option_d": "Polyhydramnios",
     "correct_answer": "A",
-    "explanation": "Renal agenesis leads to oligohydramnios because the fetus cannot produce urine, which is the main source of amniotic fluid in later pregnancy.",
-    "additional": "Exam pearl: Oligohydramnios is also seen in IUGR, prolonged pregnancy, and ruptured membranes. Complications include pulmonary hypoplasia and skeletal deformities."
+    "explanation": "Renal agenesis (absence of fetal kidneys) prevents urine formation, the main source of amniotic fluid in later pregnancy, leading to severe oligohydramnios. This is often associated with Potter’s sequence (pulmonary hypoplasia and limb deformities).",
+    "additional": "Exam pearl: Other causes include prolonged pregnancy, ruptured membranes, and IUGR. Nurses must monitor amniotic fluid levels, fetal growth, and advise referral if oligohydramnios is suspected. Exams often pair 'renal agenesis = oligohydramnios' vs. 'esophageal atresia = polyhydramnios'."
   },
   {
-    "question_text": "Which is the most important step in preventing maternal mortality?",
-    "option_a": "Providing skilled birth attendance",
-    "option_b": "Increasing number of antenatal visits",
-    "option_c": "Encouraging hospital deliveries only",
-    "option_d": "Routine cesarean sections",
-    "correct_answer": "A",
-    "explanation": "Skilled birth attendance is the single most important intervention for preventing maternal deaths, as most complications occur during labor and delivery.",
-    "additional": "Exam pearl: Nurses and midwives are frontline skilled attendants. Emergency obstetric care (AMTSL, PPH management, resuscitation) saves lives."
-  },
-  {
-    "question_text": "Which is the best position for the mother during the second stage of labor to facilitate descent?",
-    "option_a": "Supine",
-    "option_b": "Lithotomy",
-    "option_c": "Upright or squatting",
-    "option_d": "Left lateral",
-    "correct_answer": "C",
-    "explanation": "An upright or squatting position widens the pelvic outlet and uses gravity to assist fetal descent. Supine and lithotomy positions restrict movement and can cause hypotension.",
-    "additional": "Exam pearl: Nurses should encourage mobility and upright positions unless contraindicated, as this shortens labor and improves outcomes."
-  },
-  {
-    "question_text": "Which is the most common site of ectopic pregnancy?",
-    "option_a": "Ovary",
-    "option_b": "Ampulla of fallopian tube",
-    "option_c": "Cervix",
-    "option_d": "Abdominal cavity",
+    "question_text": "Which is the most effective intervention to prevent eclampsia in severe pre-eclampsia?",
+    "option_a": "Antihypertensives",
+    "option_b": "Magnesium sulfate",
+    "option_c": "Sedatives",
+    "option_d": "Early delivery only",
     "correct_answer": "B",
-    "explanation": "The ampulla of the fallopian tube is the most common site for ectopic pregnancy (about 70%). Other sites are much less frequent.",
-    "additional": "Exam pearl: Risk factors include PID, tubal surgery, and previous ectopic pregnancy. Nurses should suspect ectopic in women with abdominal pain and early pregnancy bleeding."
+    "explanation": "Magnesium sulfate is the gold-standard anticonvulsant for preventing and treating eclamptic seizures. Antihypertensives lower BP but do not prevent seizures, while delivery is definitive but MgSO₄ is required during stabilization.",
+    "additional": "Exam pearl: Nurses administer MgSO₄ using Pritchard or Zuspan regimens, monitor reflexes, respirations, and urine output to avoid toxicity. Calcium gluconate is the antidote. NCK exams often ask: 'Which drug prevents eclampsia?' → Magnesium sulfate."
   },
   {
-    "question_text": "Which is the most effective intervention for prevention of postpartum hemorrhage?",
-    "option_a": "Administration of oxytocin after delivery of anterior shoulder",
-    "option_b": "Delayed cord clamping",
-    "option_c": "Controlled cord traction only",
-    "option_d": "Fundal pressure during delivery",
+    "question_text": "Which is the best indicator of fetal lung maturity?",
+    "option_a": "Amniotic fluid L/S ratio ≥2",
+    "option_b": "Presence of fetal breathing movements",
+    "option_c": "Fetal heart rate reactivity",
+    "option_d": "Fundal height",
     "correct_answer": "A",
-    "explanation": "Active management of the third stage of labor with oxytocin administration immediately after birth significantly reduces the risk of PPH.",
-    "additional": "Exam pearl: Nurses should follow AMTSL protocol—oxytocin, controlled cord traction, and uterine massage—to prevent maternal mortality from PPH."
+    "explanation": "An L/S (lecithin/sphingomyelin) ratio of ≥2 in amniotic fluid indicates sufficient surfactant for effective lung function at birth, reducing risk of respiratory distress syndrome.",
+    "additional": "Exam pearl: Antenatal corticosteroids (betamethasone, dexamethasone) accelerate fetal lung maturity. NCK often tests biochemical markers like L/S ratio, or clinical equivalents (gestation >34 weeks usually = mature lungs)."
   },
   {
-    "question_text": "Which is the most important investigation in suspected pre-eclampsia?",
-    "option_a": "Urine protein estimation",
-    "option_b": "Random blood sugar",
-    "option_c": "Serum calcium",
-    "option_d": "Hemoglobin level",
+    "question_text": "Which is the safest method of sterilization in women?",
+    "option_a": "Tubal ligation",
+    "option_b": "Hysterectomy",
+    "option_c": "Salpingectomy",
+    "option_d": "Oophorectomy",
     "correct_answer": "A",
-    "explanation": "Proteinuria along with hypertension confirms pre-eclampsia. Other investigations may be useful but are not diagnostic.",
-    "additional": "Exam pearl: Nurses must screen urine routinely during ANC visits. Severe pre-eclampsia requires hospitalization, antihypertensives, and magnesium sulfate."
+    "explanation": "Tubal ligation is the safest and most widely used method of female sterilization. It is effective, minimally invasive, and has fewer complications compared to hysterectomy or oophorectomy.",
+    "additional": "Exam pearl: Nurses counsel on permanency, possible regret in young women, and surgical risks. Increasingly, salpingectomy is being promoted to reduce ovarian cancer risk, but tubal ligation remains the exam favorite."
   },
   {
-    "question_text": "Which is the most common cause of neonatal jaundice?",
-    "option_a": "Physiological jaundice",
-    "option_b": "Hemolytic disease",
-    "option_c": "Sepsis",
-    "option_d": "Biliary atresia",
+    "question_text": "Which of the following is the best method of monitoring labor progress?",
+    "option_a": "Fetal heart auscultation",
+    "option_b": "Abdominal palpation",
+    "option_c": "Partograph",
+    "option_d": "Frequency of contractions",
+    "correct_answer": "C",
+    "explanation": "The partograph is the gold-standard tool for monitoring labor progress, integrating cervical dilation, descent, contractions, and fetal condition.",
+    "additional": "Exam pearl: Nurses must be able to plot and interpret alert and action lines on the partograph. Common exam trap: While FHR and contractions are important, the partograph is the 'best method'."
+  },
+  {
+    "question_text": "Which fetal presentation is most favorable for vaginal delivery?",
+    "option_a": "Breech",
+    "option_b": "Transverse lie",
+    "option_c": "Occipito-anterior",
+    "option_d": "Face presentation",
+    "correct_answer": "C",
+    "explanation": "The occipito-anterior position aligns the smallest diameter of the fetal head with the maternal pelvis, making vaginal delivery easiest and safest.",
+    "additional": "Exam pearl: Occipito-posterior positions prolong labor, breech increases complications, and transverse requires cesarean. In NCK papers, OA = always correct for 'most favorable position'."
+  },
+  {
+    "question_text": "Which complication is most associated with premature rupture of membranes (PROM)?",
+    "option_a": "Cord prolapse",
+    "option_b": "Preterm labor",
+    "option_c": "Chorioamnionitis",
+    "option_d": "All of the above",
+    "correct_answer": "D",
+    "explanation": "PROM predisposes to all three listed complications: cord prolapse, ascending infection (chorioamnionitis), and preterm labor. Infection risk increases the longer membranes are ruptured.",
+    "additional": "Exam pearl: Nurses should monitor maternal temperature, fetal heart rate, and liquor smell/appearance. Sterile speculum exam confirms diagnosis. NCK often tests PROM with 'chorioamnionitis' as the most feared complication, but if 'all of the above' is an option, it’s usually correct."
+  },
+  {
+    "question_text": "Which is the most common cause of antepartum hemorrhage?",
+    "option_a": "Placenta previa",
+    "option_b": "Abruptio placentae",
+    "option_c": "Vasa previa",
+    "option_d": "Uterine rupture",
     "correct_answer": "A",
-    "explanation": "Physiological jaundice is the most common cause, appearing after 24 hours of life due to immature liver enzyme systems. Hemolysis and sepsis cause pathological jaundice.",
-    "additional": "Exam pearl: Nurses must differentiate physiological (after 24h, resolves by 10 days) from pathological (within 24h, severe, or prolonged) jaundice."
+    "explanation": "Placenta previa, where the placenta implants in the lower uterine segment, is the leading cause of antepartum hemorrhage. It presents with painless, recurrent vaginal bleeding in the third trimester.",
+    "additional": "Exam pearl: Classic distinction—Placenta previa = painless bright red bleeding; Abruptio placentae = painful bleeding with uterine tenderness. Nurses must avoid digital vaginal exams in suspected placenta previa due to risk of massive hemorrhage. Common exam prediction: 'Most common cause of APH' → Placenta previa."
   },
   {
     "question_text": "Which is the most common cause of obstructed labor in primigravidae?",
     "option_a": "Cephalopelvic disproportion",
     "option_b": "Malpresentation",
-    "option_c": "Multiple pregnancy",
-    "option_d": "Uterine rupture",
+    "option_c": "Uterine rupture",
+    "option_d": "Multiple pregnancy",
     "correct_answer": "A",
-    "explanation": "CPD is the leading cause of obstructed labor in primigravidae because the pelvis is untested. Malpresentation is more common in multiparous women.",
-    "additional": "Exam pearl: Nurses use partograph to detect slow progress suggestive of CPD and prepare for operative delivery if needed."
+    "explanation": "Cephalopelvic disproportion (CPD), where the fetal head is too large to pass through the maternal pelvis, is the commonest cause of obstructed labor in first pregnancies.",
+    "additional": "Exam pearl: Nurses use the partograph to detect slow cervical dilation and non-descent of the presenting part. Management requires cesarean delivery. Prediction: CPD is almost always the answer when 'primigravida + obstructed labor' appears in a question."
   },
   {
-    "question_text": "Which is the first sign of puerperal infection?",
-    "option_a": "Foul-smelling lochia",
-    "option_b": "Fever above 38°C",
-    "option_c": "Abdominal tenderness",
-    "option_d": "Subinvolution of uterus",
-    "correct_answer": "B",
-    "explanation": "Fever within 10 days postpartum is the earliest sign of puerperal infection. Foul lochia and uterine tenderness develop later.",
-    "additional": "Exam pearl: Nurses should monitor temperature regularly and ensure infection prevention measures such as asepsis and hand hygiene."
-  },
-  {
-    "question_text": "Which is the best test to confirm fetal viability in early pregnancy?",
-    "option_a": "Urine pregnancy test",
-    "option_b": "Serum beta-hCG",
-    "option_c": "Ultrasound showing fetal heartbeat",
-    "option_d": "Abdominal palpation",
+    "question_text": "Which is the most specific test to confirm pregnancy?",
+    "option_a": "Amenorrhea",
+    "option_b": "Positive urine pregnancy test",
+    "option_c": "Detection of fetal heart sounds",
+    "option_d": "Breast changes",
     "correct_answer": "C",
-    "explanation": "Ultrasound confirmation of fetal heartbeat is the most reliable test of fetal viability in early pregnancy. Urine and serum tests confirm pregnancy, not viability.",
-    "additional": "Exam pearl: Nurses reassure mothers if heartbeat is not visible before 6 weeks, as this may still be normal depending on dating."
+    "explanation": "Detection of fetal heart sounds (by Doppler at ~10–12 weeks or fetoscope at ~20 weeks) is a positive and confirmatory sign of pregnancy.",
+    "additional": "Exam pearl: NCK tests require you to differentiate presumptive, probable, and positive signs. Remember: only three are truly 'positive'—fetal heart sounds, fetal movements felt by examiner, and ultrasound visualization of fetus."
   },
   {
-    "question_text": "Which of the following is the most common cause of secondary postpartum hemorrhage?",
-    "option_a": "Uterine atony",
-    "option_b": "Retained placental tissue",
-    "option_c": "Genital tract trauma",
-    "option_d": "Coagulopathy",
-    "correct_answer": "B",
-    "explanation": "Retained placental tissue is the commonest cause of secondary PPH (24h–6 weeks after birth). Atony usually causes primary PPH.",
-    "additional": "Exam pearl: Nurses should educate mothers on reporting excessive bleeding, foul-smelling lochia, or fever after discharge."
-  },
-  {
-    "question_text": "Which is the most common cause of maternal mortality globally?",
+    "question_text": "Which is the leading cause of maternal mortality globally?",
     "option_a": "Postpartum hemorrhage",
     "option_b": "Hypertensive disorders",
     "option_c": "Sepsis",
     "option_d": "Unsafe abortion",
     "correct_answer": "A",
-    "explanation": "PPH is the leading cause of maternal deaths worldwide, especially in low-resource countries. Hypertensive disorders and sepsis are also significant causes.",
-    "additional": "Exam pearl: Nurses play a crucial role in prevention of PPH through AMTSL, monitoring, and rapid intervention."
+    "explanation": "Postpartum hemorrhage is the leading cause of maternal death worldwide, especially in sub-Saharan Africa and Asia. It results mainly from uterine atony, retained placenta, or trauma.",
+    "additional": "Exam pearl: Prevention through AMTSL (oxytocin, controlled cord traction, uterine massage) saves lives. NCK papers repeatedly emphasize PPH as 'the number one cause of maternal mortality'."
   },
   {
-    "question_text": "Which of the following best indicates fetal lung maturity?",
-    "option_a": "Amniotic fluid L/S ratio ≥ 2",
-    "option_b": "Fetal breathing movements",
-    "option_c": "Fundal height matching gestational age",
-    "option_d": "Presence of fetal movements",
-    "correct_answer": "A",
-    "explanation": "A lecithin-sphingomyelin (L/S) ratio of ≥ 2 in amniotic fluid is the most reliable indicator of lung maturity.",
-    "additional": "Exam pearl: Antenatal steroids accelerate lung maturity in threatened preterm labor and reduce risk of RDS."
-  },
-  {
-    "question_text": "Which factor most predisposes to uterine rupture?",
-    "option_a": "Previous cesarean section scar",
-    "option_b": "Prolonged pregnancy",
-    "option_c": "Multiple pregnancy",
-    "option_d": "Grand multiparity",
-    "correct_answer": "A",
-    "explanation": "A previous cesarean scar is the strongest risk factor for uterine rupture, especially during trial of labor. Multiparity and multiple pregnancy are lesser risks.",
-    "additional": "Exam pearl: Nurses must be vigilant for warning signs like sudden abdominal pain, cessation of contractions, and fetal distress."
-  },
-  {
-    "question_text": "Which contraceptive method is safest during breastfeeding?",
-    "option_a": "Combined oral contraceptives",
-    "option_b": "Progestin-only pills",
-    "option_c": "Copper IUD",
-    "option_d": "Condoms",
-    "correct_answer": "B",
-    "explanation": "Progestin-only pills are safe during lactation as they do not interfere with milk production. Combined OCPs can reduce lactation.",
-    "additional": "Exam pearl: Nurses should educate mothers on postpartum family planning, including implants, injectables, and IUDs after 6 weeks."
-  },
-  {
-    "question_text": "Which is the commonest cause of early neonatal sepsis?",
+    "question_text": "Which is the most common cause of neonatal sepsis in the first week of life?",
     "option_a": "Group B Streptococcus",
-    "option_b": "Escherichia coli",
-    "option_c": "Staphylococcus aureus",
-    "option_d": "Listeria monocytogenes",
+    "option_b": "Staphylococcus aureus",
+    "option_c": "Listeria monocytogenes",
+    "option_d": "Klebsiella pneumoniae",
     "correct_answer": "A",
-    "explanation": "Group B Streptococcus is the most frequent cause of early neonatal sepsis (first 7 days of life). E. coli is second.",
-    "additional": "Exam pearl: Nurses should recognize poor feeding, lethargy, hypothermia, and respiratory distress as red flags for neonatal sepsis."
+    "explanation": "Group B Streptococcus is the leading cause of early-onset neonatal sepsis, acquired from the maternal genital tract during delivery.",
+    "additional": "Exam pearl: Signs include poor feeding, respiratory distress, lethargy, and hypothermia. Nurses provide aseptic delivery practices and early recognition. Prediction: In NCK exams, Group B Strep = first week sepsis; Klebsiella often = late-onset sepsis in hospital settings."
   },
   {
-    "question_text": "Which is the most common cause of stillbirth in developing countries?",
-    "option_a": "Birth asphyxia",
-    "option_b": "Infections",
-    "option_c": "Hypertensive disorders",
-    "option_d": "Congenital malformations",
-    "correct_answer": "A",
-    "explanation": "Birth asphyxia accounts for the majority of stillbirths in resource-limited settings, followed by hypertensive disorders and infections.",
-    "additional": "Exam pearl: Skilled birth attendance, timely resuscitation, and antenatal screening reduce stillbirth rates significantly."
+    "question_text": "Which is the best method for diagnosing ectopic pregnancy?",
+    "option_a": "Culdocentesis",
+    "option_b": "Urine pregnancy test",
+    "option_c": "Transvaginal ultrasound",
+    "option_d": "Serial hemoglobin estimation",
+    "correct_answer": "C",
+    "explanation": "Transvaginal ultrasound is the most accurate and earliest diagnostic tool for ectopic pregnancy, detecting an empty uterus with adnexal mass or gestational sac.",
+    "additional": "Exam pearl: Nurses should suspect ectopic in women with abdominal pain, amenorrhea, and vaginal bleeding (classic triad). NCK often asks: 'Best investigation for ectopic' → TVS."
   },
   {
-    "question_text": "Which is the most reliable sign of placental separation?",
-    "option_a": "Lengthening of the cord",
-    "option_b": "Sudden gush of blood",
-    "option_c": "Uterus becomes globular and rises",
+    "question_text": "Which is the earliest detectable sign of pregnancy on ultrasound?",
+    "option_a": "Gestational sac",
+    "option_b": "Yolk sac",
+    "option_c": "Fetal pole",
+    "option_d": "Fetal heartbeat",
+    "correct_answer": "A",
+    "explanation": "The gestational sac is the first sonographic finding of pregnancy, visible on transvaginal ultrasound around 4–5 weeks.",
+    "additional": "Exam pearl: Sequence on ultrasound—gestational sac (4–5 weeks), yolk sac (5 weeks), fetal pole (5.5–6 weeks), cardiac activity (6–7 weeks). NCK often tests this timeline."
+  },
+  {
+    "question_text": "Which is the most effective drug for preventing eclampsia?",
+    "option_a": "Diazepam",
+    "option_b": "Magnesium sulfate",
+    "option_c": "Phenytoin",
+    "option_d": "Phenobarbital",
+    "correct_answer": "B",
+    "explanation": "Magnesium sulfate is the drug of choice for both prevention and treatment of seizures in pre-eclampsia and eclampsia. Other anticonvulsants are less effective and pose neonatal risks.",
+    "additional": "Exam pearl: Nurses must know MgSO₄ regimens (Pritchard, Zuspan), monitor for toxicity, and keep calcium gluconate as antidote. NCK prediction: any question asking 'drug of choice in eclampsia' → MgSO₄."
+  },
+  {
+    "question_text": "Which is the best method of assessing cervical readiness for induction?",
+    "option_a": "Digital dilation measurement",
+    "option_b": "Bishop score",
+    "option_c": "Fundal height",
+    "option_d": "Ultrasound",
+    "correct_answer": "B",
+    "explanation": "The Bishop score assesses dilation, effacement, station, position, and consistency of the cervix. A score ≥8 suggests a favorable cervix for induction.",
+    "additional": "Exam pearl: Nurses should remember the five components of Bishop score for exams. NCK often frames this as 'Best method for cervical ripening assessment' → Bishop score."
+  },
+  {
+    "question_text": "Which is the most common cause of breech presentation?",
+    "option_a": "Polyhydramnios",
+    "option_b": "Prematurity",
+    "option_c": "Multiple pregnancy",
+    "option_d": "Placenta previa",
+    "correct_answer": "B",
+    "explanation": "Prematurity is the most frequent cause of breech presentation, since the fetus has not yet rotated to cephalic presentation.",
+    "additional": "Exam pearl: Breech risk increases with prematurity, uterine anomalies, and multiple pregnancies. Nurses should anticipate complications such as cord prolapse and birth trauma. Exam tip: 'Most common cause of breech' → Prematurity."
+  },
+  {
+    "question_text": "Which is the most common complication of polyhydramnios?",
+    "option_a": "Cord prolapse",
+    "option_b": "Postpartum hemorrhage",
+    "option_c": "Preterm labor",
     "option_d": "All of the above",
     "correct_answer": "D",
-    "explanation": "All listed signs—lengthening of the cord, gush of blood, and a rising globular uterus—together confirm placental separation.",
-    "additional": "Exam pearl: Nurses must gently apply controlled cord traction once signs appear to avoid uterine inversion."
+    "explanation": "Polyhydramnios predisposes to all listed complications—cord prolapse, uterine overdistension causing PPH, and preterm labor.",
+    "additional": "Exam pearl: Nurses should prepare for cord prolapse at membrane rupture and anticipate atony after delivery. If 'all of the above' is an option in exams, it’s often correct for polyhydramnios complications."
   },
   {
-    "question_text": "Which is the most important cause of maternal mortality in eclampsia?",
-    "option_a": "Renal failure",
-    "option_b": "Pulmonary edema",
-    "option_c": "Cerebral hemorrhage",
-    "option_d": "Cardiac arrest",
-    "correct_answer": "C",
-    "explanation": "Cerebral hemorrhage due to severe hypertension is the leading cause of maternal death in eclampsia.",
-    "additional": "Exam pearl: Immediate BP control, MgSO₄, and timely delivery are life-saving interventions."
-  },
-  {
-    "question_text": "Which fetal presentation is most favorable for vaginal delivery?",
-    "option_a": "Breech presentation",
-    "option_b": "Transverse lie",
-    "option_c": "Occipito-anterior",
-    "option_d": "Face presentation",
-    "correct_answer": "C",
-    "explanation": "Occipito-anterior presentation is the most favorable position for vaginal delivery. Breech and transverse increase risks.",
-    "additional": "Exam pearl: Nurses assess fetal lie and position on abdominal palpation and auscultation."
-  },
-  {
-    "question_text": "Which is the main danger of shoulder dystocia?",
-    "option_a": "Postpartum hemorrhage",
-    "option_b": "Neonatal brachial plexus injury",
-    "option_c": "Cord prolapse",
-    "option_d": "Premature labor",
-    "correct_answer": "B",
-    "explanation": "Shoulder dystocia can lead to neonatal brachial plexus injuries (Erb’s palsy). Maternal risks include PPH and trauma.",
-    "additional": "Exam pearl: McRoberts maneuver and suprapubic pressure are first-line nursing interventions during shoulder dystocia."
-  },
-  {
-    "question_text": "Which is the best time to give anti-D immunoglobulin to an Rh-negative mother?",
-    "option_a": "Within 72 hours after delivery of Rh-positive baby",
-    "option_b": "At 20 weeks gestation",
-    "option_c": "At the onset of labor",
-    "option_d": "Immediately after conception",
-    "correct_answer": "A",
-    "explanation": "Anti-D prophylaxis is most effective when given within 72 hours postpartum to prevent maternal sensitization.",
-    "additional": "Exam pearl: Nurses also administer anti-D after abortions, ectopic pregnancy, or invasive procedures in Rh-negative mothers."
-  },
-  {
-    "question_text": "Which is the earliest sign of threatened abortion?",
-    "option_a": "Painless vaginal bleeding",
-    "option_b": "Severe abdominal cramps",
-    "option_c": "Open cervical os",
-    "option_d": "Passage of products",
-    "correct_answer": "A",
-    "explanation": "Threatened abortion typically presents with painless vaginal bleeding while the cervical os remains closed.",
-    "additional": "Exam pearl: Nurses advise bed rest, reassurance, and monitoring. Ultrasound helps confirm viability."
-  },
-  {
-    "question_text": "Which hormone is primarily responsible for milk ejection?",
-    "option_a": "Prolactin",
-    "option_b": "Oxytocin",
-    "option_c": "Estrogen",
-    "option_d": "Progesterone",
-    "correct_answer": "B",
-    "explanation": "Oxytocin causes contraction of myoepithelial cells leading to milk letdown. Prolactin stimulates milk production.",
-    "additional": "Exam pearl: Nurses teach mothers that emotional bonding and frequent suckling enhance oxytocin release."
-  },
-  {
-    "question_text": "Which of the following is the most common cause of maternal death during cesarean section?",
-    "option_a": "Anesthetic complications",
-    "option_b": "Hemorrhage",
-    "option_c": "Sepsis",
-    "option_d": "Thromboembolism",
-    "correct_answer": "B",
-    "explanation": "Hemorrhage remains the leading cause of maternal death during cesarean delivery, particularly in emergency cases.",
-    "additional": "Exam pearl: Nurses must ensure blood is available and monitor vitals postoperatively for early detection of PPH."
-  },
-  {
-    "question_text": "Which is the most common cause of infertility in women?",
-    "option_a": "Endometriosis",
-    "option_b": "Pelvic inflammatory disease",
-    "option_c": "Ovulatory disorders",
-    "option_d": "Tubal block",
-    "correct_answer": "C",
-    "explanation": "Ovulatory disorders, including PCOS, are the most frequent causes of female infertility. Tubal factors follow closely.",
-    "additional": "Exam pearl: Nurses counsel on lifestyle changes, ovulation monitoring, and timely medical consultation."
-  },
-  {
-    "question_text": "Which of the following conditions contraindicates vaginal delivery?",
-    "option_a": "Transverse lie",
-    "option_b": "Cephalopelvic disproportion",
-    "option_c": "Placenta previa",
-    "option_d": "All of the above",
-    "correct_answer": "D",
-    "explanation": "Transverse lie, CPD, and placenta previa all contraindicate vaginal delivery, requiring cesarean section instead.",
-    "additional": "Exam pearl: Nurses must identify risk factors early and ensure timely referral to prevent obstructed labor complications."
-  },
-  {
-    "question_text": "Which type of abortion is characterized by open os and products partly expelled?",
-    "option_a": "Missed abortion",
-    "option_b": "Incomplete abortion",
-    "option_c": "Inevitable abortion",
-    "option_d": "Threatened abortion",
-    "correct_answer": "B",
-    "explanation": "Incomplete abortion is defined by vaginal bleeding, open cervix, and partial expulsion of products.",
-    "additional": "Exam pearl: Nurses prepare women for evacuation of retained products and manage hemorrhage risk."
-  },
-  {
-    "question_text": "Which is the best method to assess fetal well-being in labor?",
-    "option_a": "Intermittent auscultation",
-    "option_b": "Continuous electronic fetal monitoring",
-    "option_c": "Fetal scalp blood sampling",
-    "option_d": "Fetal movement chart",
-    "correct_answer": "B",
-    "explanation": "Continuous CTG monitoring gives the most reliable assessment of fetal well-being during labor compared to intermittent auscultation.",
-    "additional": "Exam pearl: Nurses interpret CTG for variability, accelerations, and decelerations to detect fetal distress early."
-  },
-  {
-    "question_text": "Which is the most important intervention for preventing neonatal tetanus?",
-    "option_a": "Sterile cord care",
+    "question_text": "Which is the best intervention to prevent neonatal tetanus?",
+    "option_a": "Clean cord care",
     "option_b": "Maternal tetanus immunization",
-    "option_c": "Immediate breastfeeding",
-    "option_d": "Neonatal antibiotics",
+    "option_c": "Neonatal antibiotics",
+    "option_d": "Immediate breastfeeding",
     "correct_answer": "B",
-    "explanation": "Maternal immunization with tetanus toxoid is the key strategy for preventing neonatal tetanus globally.",
-    "additional": "Exam pearl: Nurses must ensure TT immunization is up to date during ANC visits and teach mothers about clean cord care."
-  },
-  {
-    "question_text": "Which type of pelvis is most favorable for vaginal delivery?",
-    "option_a": "Android",
-    "option_b": "Anthropoid",
-    "option_c": "Platypelloid",
-    "option_d": "Gynecoid",
-    "correct_answer": "D",
-    "explanation": "The gynecoid pelvis has the most ideal dimensions for vaginal delivery. Android and platypelloid types increase risk of obstructed labor.",
-    "additional": "Exam pearl: Nurses should recognize risk of CPD in non-gynecoid pelvises during labor monitoring."
-  },
-  {
-    "question_text": "Which is the most common cause of uterine inversion?",
-    "option_a": "Mismanagement of third stage of labor",
-    "option_b": "Multiple pregnancy",
-    "option_c": "Polyhydramnios",
-    "option_d": "Placenta accreta",
-    "correct_answer": "A",
-    "explanation": "Excessive traction on the cord before placental separation is the leading cause of uterine inversion.",
-    "additional": "Exam pearl: Nurses must avoid fundal pressure and ensure controlled cord traction only after signs of placental separation."
-  },
-  {
-    "question_text": "Which vitamin deficiency is most associated with neural tube defects?",
-    "option_a": "Vitamin B12",
-    "option_b": "Folic acid",
-    "option_c": "Vitamin A",
-    "option_d": "Vitamin D",
-    "correct_answer": "B",
-    "explanation": "Folic acid deficiency is strongly linked to neural tube defects such as spina bifida and anencephaly.",
-    "additional": "Exam pearl: Nurses should promote preconception folic acid supplementation for all women of reproductive age."
-  },
-  {
-    "question_text": "Which is the safest method of labor induction in a woman with a previous cesarean scar?",
-    "option_a": "Oxytocin infusion",
-    "option_b": "Misoprostol",
-    "option_c": "Prostaglandin E2",
-    "option_d": "Mechanical methods (Foley catheter)",
-    "correct_answer": "D",
-    "explanation": "Mechanical induction with a Foley catheter is safest in women with cesarean scars, as prostaglandins increase risk of rupture.",
-    "additional": "Exam pearl: Nurses should monitor closely for scar tenderness and fetal distress during VBAC induction."
-  },
-  {
-    "question_text": "Which is the most common cause of perinatal mortality?",
-    "option_a": "Birth asphyxia",
-    "option_b": "Infections",
-    "option_c": "Prematurity and its complications",
-    "option_d": "Congenital anomalies",
-    "correct_answer": "C",
-    "explanation": "Prematurity and its complications (especially RDS) are the leading causes of perinatal mortality worldwide.",
-    "additional": "Exam pearl: Nurses focus on prevention of preterm birth, antenatal steroids, and proper care in NBU to improve survival."
+    "explanation": "Maternal tetanus toxoid immunization during pregnancy provides antibodies that cross the placenta, protecting the baby at birth.",
+    "additional": "Exam pearl: Nurses should ensure pregnant women receive at least 2 TT doses. Clean cord care complements but does not replace immunization. NCK frequently tests this preventive strategy."
   }
 ]
+
+
+
+
 
 
 
